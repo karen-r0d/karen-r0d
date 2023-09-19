@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karen-r0d
-- 👀 I’m interested in QA Testing and Design UI/UX
+- 👀 I’m interested in QA Testing, Design UI/UX and Programming
 - 🌱 I’m currently preparing for the ISTQB exam :)
 
 - 📫 How to reach me: karennrodriguez545@gmail.com
